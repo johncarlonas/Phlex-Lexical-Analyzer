@@ -49,7 +49,7 @@ npm run dev     # Starts the Vite dev server
 2. Paste your Python code into the **INPUT.PY** panel.
 3. Click **START LEXICAL ANALYSIS**.
 4. View categorized tokens in the **TOKENS.OUT** terminal.
-5. Navigate to **/docs** to see the full list of supported lexical rules.
+5. Navigate to **Documentation Page** to see the full list of supported lexical rules.
 
 ## Project Structure
 ```text
