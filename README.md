@@ -1,4 +1,4 @@
-# Phlex: Lexical Analyzer
+# Phlex: Python Lexical Analyzer
 
 ## Overview
 Phlex is a full-stack application designed to tokenize Python source code with extreme precision. It uses a compiled Flex (C) scanner for maximum speed and accuracy, providing a structured view of keywords, identifiers, literals, operators, and more.
