@@ -54,12 +54,13 @@ npm run dev     # Starts the Vite dev server
 ## Project Structure
 ```text
 Phlex/
-├── backend/            # Flask API & Flex Source
-│   ├── phlex.l         # Flex lexer definition
-│   ├── app.py          # Flask backend
-│   └── build.bat       # Automation script
-├── phlex/              # React Frontend
-    ├── src/pages/      # Home & Docs views
-    └── src/components/ # Shared UI components
+├── backend/                # Flask API & Flex Source
+│   ├── phlex.l             # Flex lexer definition
+│   ├── app.py              # Flask backend
+│   └── build.bat           # Automation script
+└── phlex/                  # React Frontend
+    ├── src/
+        ├── pages/          # Home & Docs views
+        └── components/     # Shared UI components
 
 ```
