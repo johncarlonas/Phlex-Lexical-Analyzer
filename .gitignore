@@ -1,0 +1,22 @@
+# Build Artifacts
+backend/phlex
+backend/phlex.exe
+backend/lex.yy.c
+backend/__pycache__/
+backend/*.pyc
+
+# Node
+node_modules/
+phlex/node_modules/
+phlex/dist/
+
+# Env
+.env
+.env.local
+
+# Internal Docs
+documentation/
+
+# OS
+.DS_Store
+Thumbs.db
