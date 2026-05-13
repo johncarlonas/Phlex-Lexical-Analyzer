@@ -59,7 +59,7 @@ Phlex/
 │   ├── app.py              # Flask backend
 │   └── build.bat           # Automation script
 └── phlex/                  # React Frontend
-    ├── src/
+    └── src/
         ├── pages/          # Home & Docs views
         └── components/     # Shared UI components
 
