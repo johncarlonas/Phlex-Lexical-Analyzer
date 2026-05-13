@@ -1,0 +1,11 @@
+# DESIGN RULES
+- Vibe: Professional, minimalist, developer-centric. No soft elements.
+- Colors:
+  - Main Background: Warm, soft off-white / Alabaster (`#FAF9F6`). Use this instead of pure white for main page backgrounds.
+  - Primary Accent: Rich Forest Green (`#1E4D2B`). Use for main buttons, active nav states, and the Analyzer Section background.
+  - Text & Accents: Stark Black (`#000000`). Use for primary typography, borders, and secondary text.
+  - Output Terminal Background: Dark gray/near-black (`#121212`) with `#FAF9F6` text inside for the Flex output box to look like a terminal.
+- Shapes & Borders: 
+  - STRICT RULE: Sharp edges ONLY. `rounded-none` everywhere in Tailwind. No border-radius. 
+  - Borders should be thin and solid Black (`border-black`).
+- Effects: Flat design ONLY. Absolutely no shadows (`shadow-none`), no gradients, no 3D effects, no blurs.
